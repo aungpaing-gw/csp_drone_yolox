@@ -85,4 +85,4 @@
 #     "toothbrush",
 # )
 
-COCO_CLASSES = ("person", "bicycle", "car", "truck", "bus", "motorcycle")
+COCO_CLASSES = ("person", "bicycle", "car", "motorcycle")
